@@ -10,7 +10,9 @@
   --light-gray-color: #c2cbe5;
 }
 
-* {
+*,
+::before,
+::after {
   box-sizing: border-box;
 }
 
